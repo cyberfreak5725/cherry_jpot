@@ -1,8 +1,6 @@
 # Cherry_jpot Game
 > It is a fun game designed in HTML,CSS and JS.
 
-[![Build Status][travis-image]][travis-url]
-
 
 ## Installation
 
